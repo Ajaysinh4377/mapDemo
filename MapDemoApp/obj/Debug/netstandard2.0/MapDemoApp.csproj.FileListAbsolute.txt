@@ -1,0 +1,11 @@
+E:\Xamarin_development\POC\MapDemoApp\MapDemoApp\MapDemoApp\bin\Debug\netstandard2.0\MapDemoApp.deps.json
+E:\Xamarin_development\POC\MapDemoApp\MapDemoApp\MapDemoApp\bin\Debug\netstandard2.0\MapDemoApp.dll
+E:\Xamarin_development\POC\MapDemoApp\MapDemoApp\MapDemoApp\bin\Debug\netstandard2.0\MapDemoApp.pdb
+E:\Xamarin_development\POC\MapDemoApp\MapDemoApp\MapDemoApp\obj\Debug\netstandard2.0\MapDemoApp.csprojResolveAssemblyReference.cache
+E:\Xamarin_development\POC\MapDemoApp\MapDemoApp\MapDemoApp\obj\Debug\netstandard2.0\MapDemoApp.csproj.CoreCompileInputs.cache
+E:\Xamarin_development\POC\MapDemoApp\MapDemoApp\MapDemoApp\obj\Debug\netstandard2.0\MapDemoApp.App.xaml.g.cs
+E:\Xamarin_development\POC\MapDemoApp\MapDemoApp\MapDemoApp\obj\Debug\netstandard2.0\MapDemoApp.MainPage.xaml.g.cs
+E:\Xamarin_development\POC\MapDemoApp\MapDemoApp\MapDemoApp\obj\Debug\netstandard2.0\MapDemoApp.AssemblyInfoInputs.cache
+E:\Xamarin_development\POC\MapDemoApp\MapDemoApp\MapDemoApp\obj\Debug\netstandard2.0\MapDemoApp.AssemblyInfo.cs
+E:\Xamarin_development\POC\MapDemoApp\MapDemoApp\MapDemoApp\obj\Debug\netstandard2.0\MapDemoApp.dll
+E:\Xamarin_development\POC\MapDemoApp\MapDemoApp\MapDemoApp\obj\Debug\netstandard2.0\MapDemoApp.pdb
